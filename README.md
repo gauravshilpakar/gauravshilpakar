@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on [Deception Detection](https://github.com/gauravshilpakar/DeceptionDetection) through machine learning and Music Information Retrieval (MIR).
 - 🌱 I’m currently learning Verilog.
 - 💬 Ask me about the number of hours I've stared at a documentation for any new module or asset.
-- ⚡ Fun fact: C# > Java.
  
 - 📫 How to reach me: 
   
