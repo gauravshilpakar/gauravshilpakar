@@ -12,7 +12,7 @@
 - 📫 How to reach me: 
   
 
-[<img src="https://cdn-icons-png.flaticon.com/512/542/542638.png"/>](mailto:gaurav.shilpakar@gmail.com)
-<a href = 'https://www.linkedin.com/in/gauravshilpakar/'><img src="https://img.icons8.com/nolan/64/linkedin.png"/></a>
-<a href = 'https://www.instagram.com/gaurav.shilpakar/'><img src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
-<a href = 'https://www.youtube.com/watch?v=2ocykBzWDiM'><img src="https://img.icons8.com/nolan/64/tiktok.png"/></a>
+[<img src="https://icons8.com/icon/102436/email-sign"/>](mailto:gaurav.shilpakar@gmail.com)
+<a href = 'https://www.linkedin.com/in/gauravshilpakar/'><img src="https://icons8.com/icon/62925/linkedin-circled"/></a>
+<a href = 'https://www.instagram.com/gaurav.shilpakar/'><img src="https://icons8.com/icon/59813/instagram"/></a>
+<a href = 'https://www.youtube.com/watch?v=2ocykBzWDiM'><img src="https://icons8.com/icon/59813/instagram"/></a>
